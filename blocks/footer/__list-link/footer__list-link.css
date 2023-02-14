@@ -4,7 +4,7 @@
 .footer__list-link:last-child {
     margin-right: 0;
 }
-@media (max-width: 425px) {
+@media (max-width: 545px) {
     .footer__list-link {
       margin-right: 0;
       margin-bottom: 32px;

@@ -8,13 +8,13 @@
         max-width: 100%;
     }
 }
-@media (min-width: 426px) and (max-width: 768px) {
+@media (min-width: 546px) and (max-width: 768px) {
     .intro {
         margin: 0 auto 88px;
         max-width: 720px;
     }
 }
-@media (max-width: 425px) {
+@media (max-width: 545px) {
     .intro {
         margin: 0 auto 64px;
         max-width: 288px;

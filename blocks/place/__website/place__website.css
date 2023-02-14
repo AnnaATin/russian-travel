@@ -4,8 +4,9 @@
     flex-direction: column;
     margin: 0;
     align-self: end;
+    overflow: auto;
 }
-@media (max-width: 425px) {
+@media (max-width: 545px) {
     .place__website {
         margin-left: 16px;
     }

@@ -7,12 +7,12 @@
         max-width: 1024px;
     }
 }
-@media (min-width: 426px) and (max-width: 768px) {
+@media (min-width: 546px) and (max-width: 768px) {
     .cover {
         margin: 0 auto 88px;
     }
 }
-@media (max-width: 425px) {
+@media (max-width: 545px) {
     .cover {
         margin: 0 auto 65px;
     }
