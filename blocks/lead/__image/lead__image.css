@@ -1,0 +1,24 @@
+.lead__image {
+    margin: 0 auto 8px;
+    display: block;
+    min-height: 62.5%;
+    max-width: 100%;
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+    .lead__image {
+        margin: 0 auto 8px;
+        max-width: 928px;
+    }
+}
+@media (min-width: 426px) and (max-width: 768px) {
+    .lead__image {
+        margin: 0 auto 8px;
+        max-width: 768px;
+    }
+}
+@media (max-width: 425px) {
+    .lead__image {
+        margin: 0 auto 8px;
+        max-width: 320px;
+    }
+}

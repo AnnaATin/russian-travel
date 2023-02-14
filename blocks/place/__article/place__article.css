@@ -1,0 +1,12 @@
+.place__article{
+  grid-area: text;
+  margin: 0 auto;
+  max-width: 484px;
+  width: 100%;
+}
+@media (max-width: 425px) {
+    .place__article {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+}
