@@ -5,12 +5,12 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
-@media (min-width: 546px) and (max-width: 768px) {
+@media (min-width: 426px) and (max-width: 768px) {
     .footer {
         max-width: calc(100% - 48px);
     }
 }
-@media (max-width: 545px) {
+@media (max-width: 425px) {
     .footer {
         max-width: 158px;
         flex-direction: column;

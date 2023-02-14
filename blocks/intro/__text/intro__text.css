@@ -6,12 +6,12 @@
     font-weight: 400;
     color: #ffffff;
 }
-@media (min-width: 546px) and (max-width: 768px) {
+@media (min-width: 426px) and (max-width: 768px) {
     .intro__text {
         max-width: 720px;
     }
 }
-@media (max-width: 545px) {
+@media (max-width: 425px) {
     .intro__text {
         max-width: 288px;
     }

@@ -7,7 +7,7 @@
     color: #ffffff;
     text-align: start;
 }
-@media (max-width: 545px) {
+@media (max-width: 425px) {
     .intro__title {
         max-width: 84%;
         font-size: 32px;
