@@ -1,7 +1,9 @@
 .place__article{
   grid-area: text;
-  margin: 0 auto;
-  min-width: 240px;
-  width: 100%;
-  overflow: auto;
+}
+@media (max-width: 425px) {
+  .place__article {
+    margin: 0 auto;
+    max-width: calc(100% - 32px);
+  }
 }
