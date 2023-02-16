@@ -10,7 +10,7 @@
 }
 @media (min-width: 769px) and (max-width: 1024px) {
   .place {
-      grid-template-columns: minmax(420px, 440px) 1fr;
+      grid-template-columns: minmax(360px, 440px) minmax(280px, 456px);
       column-gap: 32px;
   }
 }
